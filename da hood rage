@@ -4,7 +4,7 @@ shared["F​F​l​a​g​A​X​C​o​m​b​i​n​e​G​e​t​O​
     },
     
     ["Universal"] = {
-        ['Indicators'] = { ['Enabled'] = (false) },
+        ['Indicators'] = { ['Enabled'] = (true) },
     },
     
     ["SilentAim"] = {
@@ -90,7 +90,7 @@ shared["F​F​l​a​g​A​X​C​o​m​b​i​n​e​G​e​t​O​
         ['AimAssistField'] = { ['Size'] = (500) },
         ['SilentAimField'] = { ['Size'] = (110) },
         ['TriggerBotField'] = { ['Size'] = (15.7) }, --[[ For offbrands ]]
-        ['SilentAimBoxField'] = { ['Visible'] = (false), ['Sync'] = (true), ['Width'] = (6), ['Height'] = (8) }
+        ['SilentAimBoxField'] = { ['Visible'] = (true), ['Sync'] = (true), ['Width'] = (6), ['Height'] = (8) }
     },
 }
 
